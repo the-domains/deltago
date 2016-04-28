@@ -1,7 +1,7 @@
 name: Deltago
 favicon: null
-layout_spectrum: 0.9530964698642492
-typography_spectrum: 0.5018350370228291
+layout_spectrum: 0.24951
+typography_spectrum: 0.24951
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#6666ff'
     - '#d8e7f8'
     - '#9595ff'
-  brandStrength: 0.27613032585941255
+  brandStrength: 0.5
   lightness: 0.6366069556679577
   saturation: 0.9141070325858891
   rhythmicContrast: 0.2722464916296303
