@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Where change happens.
-datePublished: '2016-04-28T16:16:26.730Z'
-dateModified: '2016-04-28T16:16:18.969Z'
+datePublished: '2016-04-28T19:17:02.258Z'
+dateModified: '2016-04-28T18:26:40.877Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-welcome-to-deltago.md
