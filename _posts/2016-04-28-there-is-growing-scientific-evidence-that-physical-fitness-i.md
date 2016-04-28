@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'There is growing scientific evidence that physical fitness is good for you in ways beyond the obvious benefits of being able to run for the bus. As in nearly every aspect of life, there is no one-size-fits-all and for each of the points below you will think of people who may seem to be obvious exceptions. However I would maintain, that for each of these exceptions, they would improve their overall performance if they improved their fitness. That said, everyone has their own point of diminishing return and each of us must find our own balance so take this as food for thought...'
-datePublished: '2016-04-28T13:43:09.737Z'
-dateModified: '2016-04-28T13:39:10.067Z'
+datePublished: '2016-04-28T16:03:27.096Z'
+dateModified: '2016-04-28T13:43:18.173Z'
 title: ''
 author: []
 authors: []
