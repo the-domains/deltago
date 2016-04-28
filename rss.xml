@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Deltago]]></title>
-        <description><![CDATA[Deltago]]></description>
+        <title><![CDATA[Deltago - Change leadership.]]></title>
+        <description><![CDATA[Deltago - Change leadership.]]></description>
         <link>https://thegrid.ai/deltago/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 13:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 15:44:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deltago/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6686ee69-ec5c-45c1-b2c6-05c89f8f06f0.png">]]></description>
+            <link>https://thegrid.ai/deltago/welcome-to-deltago/index.html</link>
+            <guid isPermaLink="false">5fa4da37-7229-4aa0-bb57-f8e5721e421e</guid>
+            <pubDate>Thu, 28 Apr 2016 15:43:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>There is growing scientific evidence that physical fitness is good for you in ways beyond the obvious benefits of being able to run for the bus. As in nearly every aspect of life, there is no one-size-fits-all and for each of the points below you will think of people who may seem to be obvious exceptions. However I would maintain, that for each of these exceptions, they would improve their overall performance if they improved their fitness. That said, everyone has their own point of diminishing return and each of us must find our own balance so take this as food for thought...</p>]]></description>
             <link>https://thegrid.ai/deltago/there-is-growing-scientific-evidence-that-physical-fitness-i/index.html</link>
             <guid isPermaLink="false">ae04fa76-da61-4869-a9c8-824fb9510005</guid>
             <pubDate>Thu, 28 Apr 2016 13:43:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6686ee69-ec5c-45c1-b2c6-05c89f8f06f0.png">]]></description>
-            <link>https://thegrid.ai/deltago/welcome-to-deltago/index.html</link>
-            <guid isPermaLink="false">5fa4da37-7229-4aa0-bb57-f8e5721e421e</guid>
-            <pubDate>Thu, 28 Apr 2016 13:37:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
