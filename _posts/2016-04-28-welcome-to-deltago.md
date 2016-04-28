@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Where change happens.
-datePublished: '2016-04-28T16:02:20.854Z'
-dateModified: '2016-04-28T16:01:18.167Z'
+datePublished: '2016-04-28T16:16:26.730Z'
+dateModified: '2016-04-28T16:16:18.969Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-welcome-to-deltago.md
@@ -28,9 +28,11 @@ _type: Article
 
 Where change happens.
 
-I coach leaders, growers, changers, achievers, and optimisers. 
+For leaders, growers, achievers, and optimisers. 
 
-I consult with start-ups, SMEs and corporates.
+For individuals, start-ups, SMEs and corporates.
+
+# For YOU.
 
 Standard and bespoke services, from **individual coaching** sessions to **complete programs** designed to help your personal and organisational development. **Workshops** to help get you started or over roadblocks, or deeper **consultation** on achieving business transformation.
 
