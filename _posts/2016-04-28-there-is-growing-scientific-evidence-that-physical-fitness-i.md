@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'There is growing scientific evidence that physical fitness is good for you in ways beyond the obvious benefits of being able to run for the bus. As in nearly every aspect of life, there is no one-size-fits-all and for each of the points below you will think of people who may seem to be obvious exceptions. However I would maintain, that for each of these exceptions, they would improve their overall performance if they improved their fitness. That said, everyone has their own point of diminishing return and each of us must find our own balance so take this as food for thought...'
-datePublished: '2016-04-28T16:03:27.096Z'
-dateModified: '2016-04-28T13:43:18.173Z'
+datePublished: '2016-04-28T16:14:54.927Z'
+dateModified: '2016-04-28T16:09:42.643Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-there-is-growing-scientific-evidence-that-physical-fitness-i.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,15 +18,13 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-there-is-growing-scientific-evidence-that-physical-fitness-i.md
-published: true
 url: there-is-growing-scientific-evidence-that-physical-fitness-i/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6870f2b5-a420-4fa9-a08f-dc74b409f942.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/717e0666-ae31-4f6a-9cc8-33ab605511b4.jpg)
 
-# 10 reasons for fitness at work
+## 10 reasons for fitness at work.
 
 There is growing scientific evidence that physical fitness is good for you in ways beyond the obvious benefits of being able to run for the bus. As in nearly every aspect of life, there is no one-size-fits-all and for each of the points below you will think of people who may seem to be obvious exceptions. However I would maintain, that for each of these exceptions, they would improve their overall performance if they improved their fitness. That said, everyone has their own point of diminishing return and each of us must find our own balance so take this as food for thought...
 
