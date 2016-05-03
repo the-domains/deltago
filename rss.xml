@@ -4,7 +4,7 @@
         <description><![CDATA[Deltago - Change leadership.]]></description>
         <link>https://thegrid.ai/deltago/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 19:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 10:32:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deltago/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/deltago/welcome-to-deltago/index.html</link>
             <guid isPermaLink="false">5fa4da37-7229-4aa0-bb57-f8e5721e421e</guid>
             <pubDate>Thu, 28 Apr 2016 19:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Choice]]></title>
+            <description><![CDATA[<article><h1>Choice</h1><p>When faced with drastic change that’s not of our choosing, do we have any?</p></article>]]></description>
+            <link>https://thegrid.ai/deltago/choice/index.html</link>
+            <guid isPermaLink="false">274e51c3-3101-4bc5-81ab-0d3bc57df71d</guid>
+            <pubDate>Tue, 03 May 2016 10:31:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
