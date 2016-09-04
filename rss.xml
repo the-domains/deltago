@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Deltago - Change leadership.]]></title>
-        <description><![CDATA[Deltago - Change leadership.]]></description>
+        <title><![CDATA[Deltago]]></title>
+        <description><![CDATA[Deltago]]></description>
         <link>https://thegrid.ai/deltago/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 10:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 11:23:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deltago/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/deltago/welcome-to-deltago/index.html</link>
             <guid isPermaLink="false">5fa4da37-7229-4aa0-bb57-f8e5721e421e</guid>
             <pubDate>Thu, 28 Apr 2016 19:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deltago: Change. Learn. Grow. Do. - Deltago]]></title>
+            <description><![CDATA[<article><h1>Deltago: Change. Learn. Grow. Do. - Deltago</h1><p>At Deltago I coach leaders, growers, changers, achievers, optimisers and I consult with start-ups, SMEs and corporates. Deltago offers both standard and bespoke services, from individual coaching sessions to complete programs designed to help your personal and organisational development, or consultation on achieving business transformation.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f9baaeccf993d50f852a76bd8a5fb142/noop.jpg?input=http%3A%2F%2Fdeltago.de%2Fwp-content%2Fuploads%2F2016%2F01%2Fbigstock-an-athletic-pair-of-legs-on-pa-80916119-e1454065334652.jpg"></article>]]></description>
+            <link>http://deltago.de/</link>
+            <guid isPermaLink="false">e94de138-12d1-4a79-bf79-ae44baf4fb41</guid>
+            <pubDate>Thu, 01 Sep 2016 11:23:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Choice]]></title>
